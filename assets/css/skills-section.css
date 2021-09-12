@@ -1,0 +1,29 @@
+.single-skill-container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+.skills-container {
+    margin: 0px auto;
+    padding: 0px 10%;
+}
+
+.skills-container i {
+    font-size: 125px;
+    margin: 10px;
+}
+
+.single-skill {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.single-skill h2 {
+    font-size: 16px;
+    font-weight: bold;
+}
